@@ -17,7 +17,7 @@ export default {
       pagesize:5,
       pageindex:1,
       fields: [
-        { key: "customers_id", sortable: true },
+        { key: "customer_id", sortable: true },
         { key: "company_name", sortable: true },
         { key: "contact_name", sortable: true },
         { key: "contact_title", sortable: true },
